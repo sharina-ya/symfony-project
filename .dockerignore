@@ -1,7 +1,0 @@
-# .dockerignore
-.git/
-docker/
-var/
-vendor/
-node_modules/
-.env
